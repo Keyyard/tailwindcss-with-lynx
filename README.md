@@ -99,3 +99,6 @@ import "tailwindcss/utilities.css";
 npm run dev
 ```
 
+## References
+1. https://github.com/rspack-contrib/rsbuild-plugin-tailwindcss
+2. https://buymeacoffee.com/reactbd/how-set-up-tailwind-css-your-lynxjs-project
